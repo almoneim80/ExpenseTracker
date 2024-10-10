@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qyvUvveUeKLezjWWI/vBSmFaWBuYGmlD15w2/fvwQww=",
+  "Hash": "9FI5PNB6eZ7LOg1TvcCdDSViN1Q2lZGwI4nhunV66Qk=",
   "Source": "Expense Tracker",
   "BasePath": "_content/Expense Tracker",
   "Mode": "Default",
@@ -642,6 +642,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto\\Roboto-ThinItalic.ttf"
+    },
+    {
+      "Identity": "D:\\Expense Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\img\\logo.png",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Expense Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "img/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
       "Identity": "D:\\Expense Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\img\\OIP.jpeg",

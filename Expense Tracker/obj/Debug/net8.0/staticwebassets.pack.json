@@ -133,6 +133,10 @@
       "PackagePath": "staticwebassets\\img\\OIP.jpeg"
     },
     {
+      "Id": "D:\\Expense Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
       "Id": "D:\\Expense Tracker\\Expense Tracker\\Expense Tracker\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
