@@ -1,8 +1,8 @@
-##Expense Tracker
+## Expense Tracker
 Expense Tracker is a full-featured web application for tracking income and expenses, 
 built using ASP.NET Core MVC and Entity Framework Core, with a modern interface using Syncfusion Charts.
 
-##Table of Contents
+## Table of Contents
 Features
 Requirements
 Project Setup
@@ -12,7 +12,7 @@ Project Structure
 Future Development
 License
 
-##Features
+## Features
 Category Management: Add, edit, delete categories, select type (Income/Expense), and add an icon.
 Transaction Management: Record income and expenses, add notes, select category and date.
 Dynamic Dashboard:
@@ -24,13 +24,13 @@ Modern and organized UI with Sidebar and navigation menus.
 Data validation on input.
 Error handling with a user-friendly error page.
 
-##Requirements
+## Requirements
 .NET 7 SDK or later.
 SQL Server for storage.
 Modern web browser supporting Syncfusion (Chrome/Edge/Firefox).
 Internet connection for Syncfusion and FontAwesome libraries.
 
-##Project Setup
+## Project Setup
 Clone the repository:
 git clone <repository-url>
 
@@ -46,7 +46,7 @@ dotnet run
 Open the browser at:
 https://localhost:5001
 
-##Database
+## Database
 Main Tables:
 Categories
 Id (PK)
@@ -60,7 +60,7 @@ Note
 Date
 CategoryId (FK)
 
-##How to Use
+## How to Use
 Manage categories under Categories: create income or expense categories.
 Record transactions under Transactions.
 View the dashboard Dashboard:
@@ -69,7 +69,7 @@ Analyze expenses by category.
 Track recent transactions.
 Categories and transactions can be edited or deleted as needed.
 
-##Project Structure
+## Project Structure
 Expense_Tracker/
 ├── Controllers/
 ├── Models/
@@ -87,7 +87,7 @@ wwwroot: CSS, JS, images, and icons.
 Migrations: Database migration files.
 Program.cs: Application configuration and service registration.
 
-##Future Development
+## Future Development
 User authentication and multi-user support.
 Export data to PDF and Excel.
 Advanced reports and filters.
@@ -96,5 +96,5 @@ Automatic alerts when exceeding budget.
 Enhanced analytics and charts.
 PWA or mobile app version.
 
-##License
+## License
 Open-source, modifiable and usable under MIT license or as agreed.
