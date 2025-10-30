@@ -1,0 +1,52 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build Folders
+bin/
+obj/
+out/
+
+## Rider
+.idea/
+
+## Visual Studio Code
+.vscode/
+
+## ASP.NET Core
+wwwroot/lib/
+*.db
+*.log
+
+# EF Core Migrations (يمكن الاحتفاظ بها لو أردت)
+# Migrations/
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+.nuget/
+
+## ASP.NET Temporary Files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## MacOS
+.DS_Store
+
+## Node / npm
+node_modules/
+npm-debug.log
+yarn-error.log
