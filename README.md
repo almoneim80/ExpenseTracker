@@ -5,11 +5,11 @@ built using ASP.NET Core MVC and Entity Framework Core, with a modern interface 
 ## Table of Contents
 1. [Features](#features)
 2. [Requirements](#Requirements)
-3. [Project_Setup](#Project_Setup)
+3. [Project Setup](#Project-Setup)
 4. [Database](#Database)
-5. [How_to_Use](#How_to_Use)
-6. [Project_Structure](#Project_Structure)
-7. [Future_Development](#Future_Development)
+5. [How to Use](#How-to-Use)
+6. [Project Structure](#Project-Structure)
+7. [Future Development](#Future-Development)
 8. [License](#License)
 
 
