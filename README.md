@@ -93,8 +93,7 @@ Expense_Tracker/
 ```
 
 
-Controllers: 
-- Handles application logic and views.
+- Controllers: Handles application logic and views.
 - Models: Represents entities (Transaction, Category) and database context.
 - Views: Razor pages for UI.
 - wwwroot: CSS, JS, images, and icons.
