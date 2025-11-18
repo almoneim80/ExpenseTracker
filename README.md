@@ -93,12 +93,13 @@ Expense_Tracker/
 ```
 
 
-Controllers: Handles application logic and views.
-Models: Represents entities (Transaction, Category) and database context.
-Views: Razor pages for UI.
-wwwroot: CSS, JS, images, and icons.
-Migrations: Database migration files.
-Program.cs: Application configuration and service registration.
+Controllers: 
+- Handles application logic and views.
+- Models: Represents entities (Transaction, Category) and database context.
+- Views: Razor pages for UI.
+- wwwroot: CSS, JS, images, and icons.
+- Migrations: Database migration files.
+- Program.cs: Application configuration and service registration.
 
 ## Future Development
 User authentication and multi-user support.
