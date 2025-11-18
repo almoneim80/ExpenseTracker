@@ -7,9 +7,9 @@ built using ASP.NET Core MVC and Entity Framework Core, with a modern interface 
 2. [Requirements](#Requirements)
 3. [Project Setup](#Project Setup)
 4. [Database](#Database)
-5. [How to Use](#How to Use)
-6. [Project Structure](#Project Structure)
-7. [Future Development](#Future Development)
+5. [How_to_Use](#How to Use)
+6. [Project_Structure](#Project Structure)
+7. [Future_Development](#Future Development)
 8. [License](#License)
 
 
